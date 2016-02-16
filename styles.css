@@ -3,9 +3,19 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: black;
 }
 
-p {
-    color:green;
+p1 {
+    color: black;
+    font-size: 16;
+}
+
+p2{
+	color: black;
+    font-size: 14;
+}
+
+.tab {
+	margin-left: 40px;
 }
