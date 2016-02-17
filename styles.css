@@ -117,31 +117,29 @@ a:hover {
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
 	.container {
-	 	max-width: 200x;
+	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 80px; top: 150px;
+	 	position: fixed; right: 100px; top: 100px;
 
 		/* float: right; */
-		margin-top: 100px;
+		margin-top: 125px;
 		background-color: #D1E3FF;
 		margin-bottom: 10px;
 	}
 	.container div {
 	 	background-color: #D1E3FF;
-	 	max-width: 200px;
-	 	height: 200px;
+	 	max-width: 500px;
+	 	height: 500px;
 	 	display: inline-block;
 	  	display: none;
 	}
 	.container img {
-	 	height: 80%;
+	 	height: 75%;
 	}
 
 	#bigimg {
-		height: 40%;
-
-	}
+	
 }
 /* Portrait and Landscape for iphone 5 and 5s*/
 @media only screen 
@@ -179,32 +177,30 @@ a:hover {
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
- 	 .container {
-	 	max-width: 200x;
+	.container {
+	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 80px; top: 150px;
+	 	position: fixed; right: 100px; top: 100px;
 
 		/* float: right; */
-		margin-top: 80px;
+		margin-top: 125px;
 		background-color: #D1E3FF;
 		margin-bottom: 10px;
 	}
 	.container div {
 	 	background-color: #D1E3FF;
-	 	max-width: 200px;
-	 	height: 200px;
+	 	max-width: 500px;
+	 	height: 500px;
 	 	display: inline-block;
 	  	display: none;
 	}
 	.container img {
-	 	height: 70%;
+	 	height: 75%;
 	}
 
 	#bigimg {
-		height: 30%;
-
-	} 	
+		
 
 }
 
@@ -213,32 +209,30 @@ a:hover {
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-  	.container {
-	 	max-width: 200x;
+	.container {
+	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 80px; top: 150px;
+	 	position: fixed; right: 100px; top: 100px;
 
 		/* float: right; */
-		margin-top: 80px;
+		margin-top: 125px;
 		background-color: #D1E3FF;
 		margin-bottom: 10px;
 	}
 	.container div {
 	 	background-color: #D1E3FF;
-	 	max-width: 200px;
-	 	height: 200px;
+	 	max-width: 500px;
+	 	height: 500px;
 	 	display: inline-block;
 	  	display: none;
 	}
 	.container img {
-	 	height: 70%;
+	 	height: 75%;
 	}
 
 	#bigimg {
-		height: 30%;
-
-	} 	 	
+	 	
 
 }
 /* Style for buttons if they're added
