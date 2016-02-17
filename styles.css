@@ -120,12 +120,11 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 0px; top: 300px;
+	 	position: fixed; right: 5px; top: 280px;
 
 		/* float: right; */
-		margin-top: 200px;
+		margin-top: 180px;
 		background-color: #D1E3FF;
-		margin-bottom: 10px;
 	}
 	.container div {
 	 	background-color: #D1E3FF;
@@ -152,12 +151,11 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 0px; top: 300px;
+	 	position: fixed; right: 5px; top: 280px;
 
 		/* float: right; */
-		margin-top: 200px;
+		margin-top: 180px;
 		background-color: #D1E3FF;
-		margin-bottom: 10px;
 	}
 	.container div {
 	 	background-color: #D1E3FF;
@@ -173,7 +171,7 @@ a:hover {
 	#bigimg {
 		height: 50%;
 	}
-	
+
 }
 /* Portrait and Landscape for iphone 6*/
 @media only screen 
@@ -184,12 +182,11 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 0px; top: 300px;
+	 	position: fixed; right: 5px; top: 280px;
 
 		/* float: right; */
-		margin-top: 200px;
+		margin-top: 180px;
 		background-color: #D1E3FF;
-		margin-bottom: 10px;
 	}
 	.container div {
 	 	background-color: #D1E3FF;
@@ -217,12 +214,11 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 0px; top: 300px;
+	 	position: fixed; right: 5px; top: 280px;
 
 		/* float: right; */
-		margin-top: 200px;
+		margin-top: 180px;
 		background-color: #D1E3FF;
-		margin-bottom: 10px;
 	}
 	.container div {
 	 	background-color: #D1E3FF;
@@ -238,7 +234,6 @@ a:hover {
 	#bigimg {
 		height: 50%;
 	}
-	
 }
 /* Style for buttons if they're added
 button {
