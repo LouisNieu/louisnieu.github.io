@@ -86,20 +86,19 @@ a:hover {
 }
 /* CSS For the slide show. */
 .container {
- 	max-width: 600px;
+ 	max-width: 400px;
  	background-color: #D1E3FF;
  	text-align: center;
  	position: fixed; right: 100px; top: 100px;
 
 	/* float: right; */
 	margin-top: 125px;
-	padding-right: 100px;
 	background-color: #D1E3FF;
 	margin-bottom: 10px;
 }
 .container div {
  	background-color: #D1E3FF;
- 	width: 500px;
+ 	max-width: 500px;
  	height: 500px;
  	display: inline-block;
   	display: none;
@@ -108,10 +107,14 @@ a:hover {
  	height: 100%;
 }
 
+#bigimg {
+	height: 70%;
+}
+/* Style for buttons if they're added
 button {
  	position: absolute;
 }
-/* Style for buttons if they're added
+
 .next:hover {
 	border: inherit;
     background:green;
