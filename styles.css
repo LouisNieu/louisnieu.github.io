@@ -110,16 +110,17 @@ a:hover {
 #bigimg {
 	height: 70%;
 }
-/* Portrait and Landscape */
+
+/* Portrait and Landscape iphone 4 and 4s*/
 @media only screen 
   and (min-device-width: 320px) 
-  and (max-device-width: 568px)
+  and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
-	 .container {
+	.container {
 	 	max-width: 200x;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 80px; top: 50px;
+	 	position: fixed; right: 80px; top: 150px;
 
 		/* float: right; */
 		margin-top: 80px;
@@ -141,6 +142,105 @@ a:hover {
 		height: 30%;
 
 	}
+}
+/* Portrait and Landscape for iphone 5 and 5s*/
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+	.container {
+	 	max-width: 200x;
+	 	background-color: #D1E3FF;
+	 	text-align: center;
+	 	position: fixed; right: 80px; top: 150px;
+
+		/* float: right; */
+		margin-top: 80px;
+		background-color: #D1E3FF;
+		margin-bottom: 10px;
+	}
+	.container div {
+	 	background-color: #D1E3FF;
+	 	max-width: 200px;
+	 	height: 200px;
+	 	display: inline-block;
+	  	display: none;
+	}
+	.container img {
+	 	height: 70%;
+	}
+
+	#bigimg {
+		height: 30%;
+
+	}
+}
+/* Portrait and Landscape for iphone 6*/
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+ 	 .container {
+	 	max-width: 200x;
+	 	background-color: #D1E3FF;
+	 	text-align: center;
+	 	position: fixed; right: 80px; top: 150px;
+
+		/* float: right; */
+		margin-top: 80px;
+		background-color: #D1E3FF;
+		margin-bottom: 10px;
+	}
+	.container div {
+	 	background-color: #D1E3FF;
+	 	max-width: 200px;
+	 	height: 200px;
+	 	display: inline-block;
+	  	display: none;
+	}
+	.container img {
+	 	height: 70%;
+	}
+
+	#bigimg {
+		height: 30%;
+
+	} 	
+
+}
+
+/* Portrait and Landscape iphone 6+*/
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+  	.container {
+	 	max-width: 200x;
+	 	background-color: #D1E3FF;
+	 	text-align: center;
+	 	position: fixed; right: 80px; top: 150px;
+
+		/* float: right; */
+		margin-top: 80px;
+		background-color: #D1E3FF;
+		margin-bottom: 10px;
+	}
+	.container div {
+	 	background-color: #D1E3FF;
+	 	max-width: 200px;
+	 	height: 200px;
+	 	display: inline-block;
+	  	display: none;
+	}
+	.container img {
+	 	height: 70%;
+	}
+
+	#bigimg {
+		height: 30%;
+
+	} 	 	
+
 }
 /* Style for buttons if they're added
 button {
