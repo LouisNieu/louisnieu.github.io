@@ -110,6 +110,38 @@ a:hover {
 #bigimg {
 	height: 70%;
 }
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+	 .container {
+	 	max-width: 200x;
+	 	background-color: #D1E3FF;
+	 	text-align: center;
+	 	position: fixed; right: 80px; top: 50px;
+
+		/* float: right; */
+		margin-top: 80px;
+		background-color: #D1E3FF;
+		margin-bottom: 10px;
+	}
+	.container div {
+	 	background-color: #D1E3FF;
+	 	max-width: 200px;
+	 	height: 200px;
+	 	display: inline-block;
+	  	display: none;
+	}
+	.container img {
+	 	height: 70%;
+	}
+
+	#bigimg {
+		height: 30%;
+
+	}
+}
 /* Style for buttons if they're added
 button {
  	position: absolute;
