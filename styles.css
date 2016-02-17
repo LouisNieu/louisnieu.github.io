@@ -120,7 +120,7 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 5px; top: 280px;
+	 	position: fixed; right: 8px; top: 280px;
 
 		/* float: right; */
 		margin-top: 180px;
@@ -140,7 +140,6 @@ a:hover {
 	#bigimg {
 		height: 50%;
 	}
-	
 }
 /* Portrait and Landscape for iphone 5 and 5s*/
 @media only screen 
@@ -151,7 +150,7 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 5px; top: 280px;
+	 	position: fixed; right: 8px; top: 280px;
 
 		/* float: right; */
 		margin-top: 180px;
@@ -171,7 +170,6 @@ a:hover {
 	#bigimg {
 		height: 50%;
 	}
-
 }
 /* Portrait and Landscape for iphone 6*/
 @media only screen 
@@ -182,7 +180,7 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 5px; top: 280px;
+	 	position: fixed; right: 8px; top: 280px;
 
 		/* float: right; */
 		margin-top: 180px;
@@ -202,9 +200,7 @@ a:hover {
 	#bigimg {
 		height: 50%;
 	}
-	
 }
-
 /* Portrait and Landscape iphone 6+*/
 @media only screen 
   and (min-device-width: 414px) 
@@ -214,7 +210,7 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 5px; top: 280px;
+	 	position: fixed; right: 8px; top: 280px;
 
 		/* float: right; */
 		margin-top: 180px;
