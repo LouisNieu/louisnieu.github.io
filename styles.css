@@ -120,7 +120,7 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 100px; top: 100px;
+	 	position: fixed; right: 50px; top: 200px;
 
 		/* float: right; */
 		margin-top: 125px;
@@ -139,6 +139,8 @@ a:hover {
 	}
 
 	#bigimg {
+		height: 55%;
+	}
 	
 }
 /* Portrait and Landscape for iphone 5 and 5s*/
@@ -150,7 +152,7 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 100px; top: 100px;
+	 	position: fixed; right: 50px; top: 200px;
 
 		/* float: right; */
 		margin-top: 125px;
@@ -181,7 +183,7 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 100px; top: 100px;
+	 	position: fixed; right: 50px; top: 200px;
 
 		/* float: right; */
 		margin-top: 125px;
@@ -200,8 +202,9 @@ a:hover {
 	}
 
 	#bigimg {
-		
-
+		height: 55%;
+	}
+	
 }
 
 /* Portrait and Landscape iphone 6+*/
@@ -213,7 +216,7 @@ a:hover {
 	 	max-width: 400px;
 	 	background-color: #D1E3FF;
 	 	text-align: center;
-	 	position: fixed; right: 100px; top: 100px;
+	 	position: fixed; right: 50px; top: 200px;
 
 		/* float: right; */
 		margin-top: 125px;
@@ -232,8 +235,9 @@ a:hover {
 	}
 
 	#bigimg {
-	 	
-
+		height: 55%;
+	}
+	
 }
 /* Style for buttons if they're added
 button {
