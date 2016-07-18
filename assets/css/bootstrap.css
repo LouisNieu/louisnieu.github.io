@@ -775,7 +775,25 @@ pre code {
 .row {
   margin-right: -15px;
   margin-left: -15px;
+}
+
+.row1 {
+  margin-right: -15px;
+  margin-left: -15px;
   display: flex; /* equal height of the children */
+}
+.col {
+  flex: 1; /* additionally, equal width */
+  
+  padding: 1em;
+  border: inset;
+}
+
+.col2 {
+  flex: 1; /* additionally, equal width */
+  
+  padding: 1em;
+  border: outset;
 }
 .col {
   flex: 1; /* additionally, equal width */
